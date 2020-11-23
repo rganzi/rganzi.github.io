@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  “Welcome to Jekyll! Actually, ‘Hyde’ also seems appropriate.”
 date:   2020-11-23 15:12:06 -0500
 categories: jekyll update
 ---
@@ -15,15 +15,15 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
-def print_hi(name)
+def print\_hi(name)
   puts "Hi, #{name}"
 end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+print\_hi('Tom')
+# =\> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Check out the [Jekyll docs][1] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][2]. If you have questions, you can ask them on [Jekyll Talk][3].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[1]:	https://jekyllrb.com/docs/home
+[2]:	https://github.com/jekyll/jekyll
+[3]:	https://talk.jekyllrb.com/
